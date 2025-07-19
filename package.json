@@ -1,0 +1,44 @@
+{
+  "name": "spark",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@api.video/nodejs-client": "^2.6.5",
+    "@ffmpeg/ffmpeg": "^0.9.8",
+    "@ffmpeg/util": "^0.12.1",
+    "@google/generative-ai": "^0.21.0",
+    "@livepeer/ai": "^0.3.4",
+    "@pinata/sdk": "^2.1.0",
+    "@radix-ui/react-dialog": "^1.1.2",
+    "@radix-ui/react-icons": "^1.3.0",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-tabs": "^1.1.1",
+    "@story-protocol/core-sdk": "^1.1.0-stable",
+    "@zoralabs/protocol-deployments": "^0.3.5",
+    "@zoralabs/protocol-sdk": "^0.11.3",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "ethers": "^5.7.2",
+    "express": "^4.21.1",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs": "^0.0.1-security",
+    "lucide-react": "^0.453.0",
+    "next": "14.2.15",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-typing-effect": "^2.0.5",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
