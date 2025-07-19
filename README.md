@@ -18,9 +18,6 @@ This innovative approach not only saves time for content creators but also opens
 - **Google's Gemini AI**: Analyzes transcripts to identify the most engaging clip segments
 
 
-## Video Demo
-https://drive.google.com/file/d/1C7DpDXTlO5f6SWSdp7zavoAYJdGkjCQP/view?usp=drive_link
-
 ## Dapp deployed link
 https://spark-ai-app.vercel.app/
 
